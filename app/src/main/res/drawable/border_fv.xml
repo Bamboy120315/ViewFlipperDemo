@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 四周带边框的背景白色 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <!-- 这里改填充颜色 -->
+    <solid android:color="#F7F7F7" />
+
+    <!-- 圆角属性 -->
+    <corners android:radius="8dp" />
+
+</shape>
