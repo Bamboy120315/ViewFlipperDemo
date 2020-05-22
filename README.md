@@ -9,7 +9,7 @@
   
 话不多说，  
 看下效果先：  
-![ViewFlipper](https://upload-images.jianshu.io/upload_images/6179866-c74264a89dab81a0.gif?imageMogr2/auto-orient/strip)
+![ViewFlipper](https://upload-images.jianshu.io/upload_images/6179866-c74264a89dab81a0.gif)
 
 由于是原生控件，  
 使用起来也是非常简单，  
